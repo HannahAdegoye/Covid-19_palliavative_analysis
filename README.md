@@ -77,7 +77,7 @@ According to Proshare, donations to CACOVID reached N21.5 billion as of April 7,
 # Palliative Allocation, Donations, Warehousing, and Distribution
 As COVID-19 cases increased, the Federal Government announced a lockdown to reduce the spread of the virus. Subsequently, it provided palliatives, including conditional cash transfers, the homegrown school feeding programme, and the distribution of food items to affected states through the Ministry of Humanitarian Affairs. Critical agencies, such as the National Social Register of Poor and Vulnerable Households, the National Home-Grown School Feeding Programme, and the Household Uplifting Programme, were involved in the selection and distribution of these palliatives, working closely with the Minister of Humanitarian Affairs, Hajiya Sadiya Umar Farouq.
 
-![Food Warehouse](assets/images/Food_warehouses.jpg)
+![Food Warehouse](assets/images/Food_warehouses.jpeg)
 
 For the conditional cash transfer, in March 2020, the federal government announced the disbursement of N20,000 to 2.6 million vulnerable people under its N5,000 monthly stipend programme, later increasing to 3.6 million beneficiaries. Additionally, the Home-grown School Feeding Programme began in Abuja, Lagos, and Ogun, with plans to expand to all 36 states and the FCT. Beneficiaries received take-home rations valued at N4,200, which included a 5 kg bag of rice, a 5 kg bag of beans, 500 ml of vegetable oil, 750 ml of palm oil, 500 mg of salt, 15 eggs, and 140 gm of tomato paste.
 
@@ -94,6 +94,10 @@ In Niger State, household data was obtained from the National Bureau of Statisti
 ## Field Observations
 
 Lagos State received 6,000 bags of rice and two truckloads of vegetable oil from the federal government for distribution to the poor and vulnerable. Additionally, the state government initiated an economic stimulus package targeting at least 200,000 households. However, some of these supplies were diverted by local government officials responsible for the distribution. However, In many areas, including Agege, Mushin, Ikorodu, Surulere, and Epe, palliatives were hijacked by politicians and distributed among party members, excluding non-party residents. During the #EndSARS protests, hoodlums looted a government warehouse in Maza-Maza, Ojo LGA, Lagos State, where COVID-19 relief food items were stored.
+
+![Looting Food Warehouses](assets/images/Looting.webp)
+
+![](assets/images/vandalised_Palliative.png)
 
 Residents of Kano State reported that the palliative selection process favored political party loyalists, excluding vulnerable community members. Party leaders distributed items only to party members upon presentation of party cards or proof of affiliation with the ruling party.
 

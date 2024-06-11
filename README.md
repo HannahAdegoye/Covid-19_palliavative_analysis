@@ -47,7 +47,7 @@ While these negative outcomes raise questions about the lockdown's effectiveness
 # FGN Economic Sustainability & Recovery Plan
 The federal government, recognizing the pandemic's damaging effects on the economy, livelihoods, and prospects, launched the Nigerian Economic Sustainability Plan (ESP). This plan aimed to protect the precarious incomes of Nigerians, businesses, and states, prevent massive unemployment, diversify revenue generation from oil to non-oil sources, and mitigate the economic downturn caused by reduced demand for commodities, especially crude oil. The ESP is essentially a stimulus package designed to counteract the effects of low economic activity.
 
-![Labour Force Trend Analysis](assets/images/labour force trend an.png)
+![Labour Force Trend Analysis](assets/images/labour_force.png)
 
 The plan is structured around three pillars:
 

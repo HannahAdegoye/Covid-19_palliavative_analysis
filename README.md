@@ -68,11 +68,16 @@ Expansion of National Social Investment Programmes
 Cutting non-essential spending
 Supporting state governments
 
+![Disbursements to State Governments](assets/images/FGN_support.png)
+
 ## CACOVID (Coalition Against COVID-19)
 According to Proshare, donations to CACOVID reached N21.5 billion as of April 7, 2020. This coalition was established in response to the COVID-19 pandemic. Donations included materials distributed to state governments and less privileged communities across Nigeria. However, many Nigerians complained about the lack of access to these palliatives. Questions arose about the storage of CACOVID palliatives, which were answered in October 2020 when several warehouses were discovered across the country, shortly after the #EndSARS protests. CACOVID had been unable to explain why these palliatives remained locked up six months post-lockdown. While the government and private sector made significant efforts to combat the COVID-19 crisis, issues of transparency and accountability persisted. There is hope that platforms like NOCOPO and Open Treasury will improve the situation, but many Nigerians continue to question the COVID-19 response.
 
+
 # Palliative Allocation, Donations, Warehousing, and Distribution
 As COVID-19 cases increased, the Federal Government announced a lockdown to reduce the spread of the virus. Subsequently, it provided palliatives, including conditional cash transfers, the homegrown school feeding programme, and the distribution of food items to affected states through the Ministry of Humanitarian Affairs. Critical agencies, such as the National Social Register of Poor and Vulnerable Households, the National Home-Grown School Feeding Programme, and the Household Uplifting Programme, were involved in the selection and distribution of these palliatives, working closely with the Minister of Humanitarian Affairs, Hajiya Sadiya Umar Farouq.
+
+![Food Warehouse](assets/images/Food_warehouses.jpg)
 
 For the conditional cash transfer, in March 2020, the federal government announced the disbursement of N20,000 to 2.6 million vulnerable people under its N5,000 monthly stipend programme, later increasing to 3.6 million beneficiaries. Additionally, the Home-grown School Feeding Programme began in Abuja, Lagos, and Ogun, with plans to expand to all 36 states and the FCT. Beneficiaries received take-home rations valued at N4,200, which included a 5 kg bag of rice, a 5 kg bag of beans, 500 ml of vegetable oil, 750 ml of palm oil, 500 mg of salt, 15 eggs, and 140 gm of tomato paste.
 

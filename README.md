@@ -119,3 +119,9 @@ Establishment of Toll-Free Lines: Implement toll-free lines for citizens to repo
 Digital & Comprehensive Social Register: In August 2020, the Federal Ministry of Humanitarian Affairs, Disaster Management, and Social Development enrolled 15 million persons in a social register to expedite the implementation of social investment programs. However, there is a lack of proper verification methods for the names on the register, leading to politicization and fraud in cash transfers and social programs. The government should develop a single identity system to recognize Nigerian citizens easily and update the social register regularly to reflect the current realities of the people.
 
 Misinformation Control: Misinformation can be more devastating than the health crisis itself. During the Ebola crisis in 2014, false reports about salt baths curing the virus led to fatalities and hospitalizations. In 2020, various untrue reports about COVID-19 circulated on platforms like WhatsApp. The government should block loopholes for speculation by providing necessary and credible information, helping to save more lives
+
+## References
+Budget Office of the Federation https://budgetoffice.gov.ng/
+https://www.premiumtimesng.com/news/top-news/423247-endsars-why-distribution-of-looted-covid-19-palliatives-was-delayed-cacovid.html?tztc=1
+https://punchng.com/looting-of-palliative-warehouses-continues-in-abuja-adamawa-kogi-deaths-recorded-in-stampede/
+https://nairametrics.com/2020/10/27/cacovid-reacts-to-looting-of-food-items-explains-why-distribution-of-palliatives-was-delayed/

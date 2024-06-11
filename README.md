@@ -1,4 +1,4 @@
-## Navigating Nigeria's COVID-19 Response: Data Analysis and Accountability
+## Nigeria's COVID-19 Response: Data Analysis and Accountability
 
 # Objective
 The objective of this project is to analyze the response and interventions of the Nigerian government and various organizations during the COVID-19 pandemic, focusing on the distribution and effectiveness of palliatives, the implementation of economic sustainability plans, and the overall impact on the socio-economic landscape of the country.

@@ -97,7 +97,7 @@ Lagos State received 6,000 bags of rice and two truckloads of vegetable oil from
 
 ![Looting Food Warehouses](assets/images/Looting.webp)
 
-![](assets/images/vandalised_Palliative.png)
+![Carting away with palliavatives](assets/images/vandalised_Palliative.png)
 
 Residents of Kano State reported that the palliative selection process favored political party loyalists, excluding vulnerable community members. Party leaders distributed items only to party members upon presentation of party cards or proof of affiliation with the ruling party.
 
